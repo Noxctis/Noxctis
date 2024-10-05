@@ -139,7 +139,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noxctis.Noxctisn&left_color=midnightblue&right_color=royalblue&left_text=Profile%20views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noxctis.Noxctis&left_color=midnightblue&right_color=royalblue&left_text=Profile%20views"  />
 </div>
 
 ###
