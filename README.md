@@ -49,6 +49,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="5" />
+	<!--
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
@@ -93,7 +94,9 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
   <img width="5" />
+	-->
   <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+  <img width="5" />
 </div>
 
 ###
