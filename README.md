@@ -4,15 +4,15 @@
 
 ###
 
-<h1 align="center">Hi, I'm Sean Aguilar!</h1>
+<h1 align="center">Hi, I'm Sean!</h1>
 
 ###
 
-<h3 align="center">Aspiring Full-Stack Web Developer</h3>
+<h3 align="center">Aspiring CyberSec</h3>
 
 ###
 
-<p align="center">Living and breathing Next.js and Tailwind CSS. Currently diving into Supabase. Also an enthusiast of Logic Circuits and Robotics.</p>
+<p align="center">Living and breathing. Also an enthusiast of Logic Circuits and Robotics.</p>
 
 ###
 
@@ -21,22 +21,22 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/seanaguilar04/" target="_blank">
+  <a href="https://www.linkedin.com/in/chrys-sean-sevilla/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
+  </a><!--
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seanaguilar698@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/seanaguuuu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=𝕏 (Twitter)&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="X (formerly Twitter) logo" />
-  </a>
+  </a>-->
 </div>
 
 ###
 
 <p align="center">
-		<a href="https://www.codewars.com/users/parme.sean" target="_blank">
-			<img src="https://github.r2v.ch/codewars?user=parme.sean&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level" alt="Codewars badge" />
+		<a href="https://www.codewars.com/users/Noxctis" target="_blank">
+			<img src="https://github.r2v.ch/codewars?user=Noxctis&name=true&top_languages=true&stroke=%23b362ff&theme=gradient_purple_dark_by_level" alt="Codewars badge" />
 		</a>
 </p>
 
@@ -125,13 +125,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=formesean&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Noxctis&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=formesean.formesean&left_color=midnightblue&right_color=royalblue&left_text=Profile%20views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Noxctis.Noxctisn&left_color=midnightblue&right_color=royalblue&left_text=Profile%20views"  />
 </div>
 
 ###
