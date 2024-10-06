@@ -49,15 +49,18 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
   <img width="5" />
-	<!--
+	
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="5" />
+  <!--
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="5" />
+	-->
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="5" />
+  <!--
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
@@ -82,12 +85,14 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="5" />
+  -->
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="5" />
+  <!--
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
